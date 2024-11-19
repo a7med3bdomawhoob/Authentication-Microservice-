@@ -1,0 +1,12 @@
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\bin\Debug\net8.0\DAL.deps.json
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\bin\Debug\net8.0\DAL.dll
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\bin\Debug\net8.0\DAL.pdb
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\obj\Debug\net8.0\DAL.dll
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\obj\Debug\net8.0\refint\DAL.dll
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\obj\Debug\net8.0\DAL.pdb
+D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\obj\Debug\net8.0\ref\DAL.dll
