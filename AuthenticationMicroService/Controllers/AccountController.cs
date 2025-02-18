@@ -82,10 +82,10 @@ public class AccountController : ControllerBase
     {
         if (!ModelState.IsValid)
             return BadRequest(ModelState);
+       
+        model.UserName=model.UserName.Trim();   
 
         var user = new AppUser(model.UserName, model.Email);
-
-
         var result = await _userManager.CreateAsync(user, model.Password);
 
         if (result.Succeeded)

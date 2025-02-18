@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+87qRI1ez8ms4VgSXdX66DrafUgLQ1wVOtqYja1RUbfzjH+TSm1gxetW5qrcBuWk5VeXomjmVptN4anQ1J7MQ==",
+  "dgSpecHash": "5pA5T429DZRkrmQQ6zmZrrI/9gJTBkVG9MV8AmvUQfKG/ikBvFV9i5mbR4S/2Yd9pg5fNNfIa6v6dpNN1sVeGw==",
   "success": true,
-  "projectFilePath": "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\AuthenticationMicroService\\AuthenticationMicroService.csproj",
+  "projectFilePath": "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\AuthenticationMicroService\\AuthenticationMicroService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namaa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\namaa\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

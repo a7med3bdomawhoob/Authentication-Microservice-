@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pfHa4WrsUEPQNOPFKp21DCSQu3zedp73qABc53sMQhdYdCzNC0fbeyNYFIZTUqdT1Ax90a0Db5ov64kJ+lwwpw==",
+  "dgSpecHash": "XHQ87GyW6S/bV9aWdGXtyuEtRmV/FmEzSLWYDOXn5KVC/rG64WFikzycTEniD4kPXZXacNOArTyO7WycGzlGDA==",
   "success": true,
-  "projectFilePath": "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\BLL\\BLL.csproj",
+  "projectFilePath": "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\BLL\\BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\namaa\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\namaa\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

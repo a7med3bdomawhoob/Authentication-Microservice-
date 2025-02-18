@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DAL
-build_property.ProjectDir = D:\NamaaAngularWebSite\Back\AuthenticationMicroService\DAL\
+build_property.ProjectDir = C:\Users\namaa\Desktop\EBRA\Authentication-Microservice-\DAL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

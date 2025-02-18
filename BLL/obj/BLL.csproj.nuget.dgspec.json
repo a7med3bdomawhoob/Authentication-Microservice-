@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\BLL\\BLL.csproj": {}
+    "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\BLL\\BLL.csproj": {}
   },
   "projects": {
-    "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\BLL\\BLL.csproj": {
+    "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\BLL\\BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\BLL\\BLL.csproj",
+        "projectUniqueName": "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\BLL\\BLL.csproj",
         "projectName": "BLL",
-        "projectPath": "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\BLL\\BLL.csproj",
+        "projectPath": "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\BLL\\BLL.csproj",
         "packagesPath": "C:\\Users\\namaa\\.nuget\\packages\\",
-        "outputPath": "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\BLL\\obj\\",
+        "outputPath": "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\namaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\DAL\\DAL.csproj": {
-                "projectPath": "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\DAL\\DAL.csproj"
+              "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\DAL\\DAL.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\DAL\\DAL.csproj": {
+    "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\namaa\\.nuget\\packages\\",
-        "outputPath": "D:\\NamaaAngularWebSite\\Back\\AuthenticationMicroService\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\namaa\\Desktop\\EBRA\\Authentication-Microservice-\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\namaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
